@@ -8,6 +8,9 @@ let mapleader=" "
 " let localleader=" "
 nnoremap <Space> <Nop>
 
+" ; as :
+nnoremap ; :
+
 " Better indenting
 vnoremap < <gv
 vnoremap > >gv
