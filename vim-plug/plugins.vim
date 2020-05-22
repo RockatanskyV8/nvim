@@ -88,6 +88,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Plug 'Shougo/echodoc.vim'
     " Interactive code
     Plug 'metakirby5/codi.vim'
+    " Brazilian Portuguese Spell Checker
     Plug 'mateusbraga/vim-spell-pt-br'
   endif
 

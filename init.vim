@@ -41,8 +41,8 @@ else
   " source $HOME/.config/nvim/plug-config/easymotion.vim
 endif
 
-spell
-spelllang=pt_br
+" Language
+set spellfile=~/.config/nvim/spell/vim-spell-pt-br/spell/pt.utf-8.add
 
 " Experimental
 let g:codi#rightalign=0
