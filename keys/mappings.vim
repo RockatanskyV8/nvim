@@ -10,6 +10,9 @@ nnoremap <Space> <Nop>
 
 " ; as :
 nnoremap ; :
+" Kills register for d
+nnoremap d "_d
+vnoremap d "_d
 
 " Better indenting
 vnoremap < <gv
